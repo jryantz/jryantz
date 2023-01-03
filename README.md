@@ -8,4 +8,5 @@
 
 #### Goals
 
+- **2023**: Ship two (2), previously unreleased, projects.
 - **2022**: Make a _meaningful_ contribution, to any project, at least 5 times per week.
