@@ -17,7 +17,7 @@ jobs:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.34
         with:
-          base: header, repositories
+          base: header, repositories, languages
           config_timezone: America/New_York
           filename: metrics.classic.svg
           plugin_languages: yes
