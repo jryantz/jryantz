@@ -1,6 +1,5 @@
 <br />
-<p align="center">
-  <a href="https://github.com/jryantz">
-    <img src="/metrics.svg" alt="Metrics">
-  </a>
-</div>
+<br />
+<a href="https://github.com/jryantz">
+  <img src="/metrics.svg" alt="Metrics">
+</a>
