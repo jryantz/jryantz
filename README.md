@@ -1,1 +1,3 @@
-<img src="/metrics.classic.svg" alt="Metrics" width="100%">
+<a href="https://github.com/jryantz">
+  <img src="/metrics.classic.svg" alt="Metrics">
+</a>
